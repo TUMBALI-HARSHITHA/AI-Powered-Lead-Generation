@@ -1,2 +1,2 @@
-video demonstration of how the lead works. 
+video demonstration of the project. 
 video is posted in google drive and shared publicly.
